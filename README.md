@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! I'm Sutiwas 👋
 
-<!--
-**h-sutiwas/h-sutiwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Engineering | Machine Learning Development | Cloud Computing
 
-Here are some ideas to get you started:
+I'm a **Civil Engineer** transitioning into **Data Engineering**, bringing a unique perspective of **large-scale systems thinking** and **analytical problem-solving** to the world of data infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Building **end-to-end data pipelines** for traffic pattern analysis
+- Developing **ML models** for urban mobility prediction
+- Creating **cloud-native data solutions** on AWS and GCP
+- Contributing to **open-source data engineering tools**
+
+### My Unique Value Proposition
+
+
+### Technical Stack
