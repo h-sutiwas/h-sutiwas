@@ -17,7 +17,7 @@ I'm a **Civil Engineer** transitioning into the field **Data Science and Enginee
 ### Data Engineering
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Apache Airflows](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-- **Skillsets**: ETL Pipeline Development, Data Warehousing, Workflow Orchestration
+- **Skillsets**: Containerization, ETL Pipeline Development, Data Warehousing, Workflow Orchestration
 
 ### Cloud Platform
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
