@@ -41,6 +41,6 @@ I'm a **Civil Engineer** transitioning into the field **Data Science and Enginee
 
 ## 📫 How to reach me
 - **Email**: s.jitsopak@gmail.com
-- **LinkedIn**: ![sutiwas-jitsopak-frenzy](https://www.linkedin.com/in/sutiwas-jitsopak-frenzy/)
+- **LinkedIn**: [sutiwas-jitsopak-frenzy](https://www.linkedin.com/in/sutiwas-jitsopak-frenzy/)
 ---
 ⚡ Currently advancing expertise through industry-recognized platform anddata engineering programs
