@@ -10,9 +10,8 @@ I'm a **Civil Engineer** transitioning into the field **Computer Engineering (Sp
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- **Python Libraries & Tools**: Pandas, PySpark, NumPy, Matplotlib, seaborn, Evidently AI, scikit-learn
+- **Python Libraries & Tools**: Pandas, PySpark, NumPy, Matplotlib, seaborn, scikit-learn
 - **R Libraries**: tidyverse, caret, gapminder, ggpubr, FSA, BSDA, DescTools
-- **SQL**: SQL Server, PostgreSQL, MySQL, SQLite
 
 ### Data Engineering
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -26,8 +25,10 @@ I'm a **Civil Engineer** transitioning into the field **Computer Engineering (Sp
 ### Infrastructure
 
 ### MLOps & Production
+- MLflow, Evidently
 
 ### Databases
+- **SQL**: SQL Server, PostgreSQL, MySQL, SQLite
 
 ### Visualization & BI
 
@@ -38,6 +39,8 @@ I'm a **Civil Engineer** transitioning into the field **Computer Engineering (Sp
 
 
 ## 🌐 Languages
+- Thai
+- English
 
 ## 📫 How to reach me
 - **Email**: s.jitsopak@gmail.com
