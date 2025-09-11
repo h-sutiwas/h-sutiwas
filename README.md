@@ -46,4 +46,4 @@ I'm a **Civil Engineer** transitioning into the field **Computer Engineering (Sp
 - **Email**: s.jitsopak@gmail.com
 - **LinkedIn**: [sutiwas-jitsopak-frenzy](https://www.linkedin.com/in/sutiwas-jitsopak-frenzy/)
 ---
-⚡ Currently advancing expertise through industry-recognized platform anddata engineering programs
+⚡ Currently advancing expertise through industry-recognized platforms, data engineering programs and will be pursuing for a master degree in the upcoming year.
