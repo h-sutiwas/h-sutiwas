@@ -33,6 +33,9 @@ I'm a **Civil Engineer** transitioning into the field **Computer Engineering (Sp
 ### Visualization & BI
 
 ### Machine Learning
+- Regression
+- Classification
+- Clustering (K-means, Affinity Propagation, Hierarchical Clustering)
 
 ## 🏆 Featured Projects
 
