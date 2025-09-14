@@ -23,6 +23,7 @@ I'm a **Civil Engineer** transitioning into the field **Computer Engineering (Sp
 ![Amazon Web Service](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=Brown)
 
 ### Infrastructure
+- Docker
 
 ### MLOps & Production
 - MLflow, Evidently
