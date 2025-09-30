@@ -41,6 +41,11 @@ I'm a **Civil Engineer** transitioning into the field **Computer Engineering (Sp
 ## 🏆 Featured Projects
 
 
+## Other Projects
+
+### Game Development with Godot
+- Project Mythus
+
 
 ## 🌐 Languages
 - Thai
