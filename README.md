@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Civil Engineer** transitioning into the field of **Computer Science and Engineering (Specifically, Data Analytics and Artificial Intelligence)**, bringing a unique perspective of **large-scale systems thinking** and **analytical problem-solving** to the world of data infrastructure. Strong foundation in machine learning and statistical analysis combined with background in transportation engineering.
+I'm was a **Civil Engineer** who transferred into the field of **Computer Science and Engineering (Specifically, Data Science and Analytics, Data Engineering, Artificial Intelligence and Machine Learning Operations)**, bringing a unique perspective of **large-scale systems thinking** and **analytical problem-solving** to the world of data infrastructure. Strong foundation in machine learning and statistical analysis combined with background in transportation engineering.
 
 ## 🛠️ Technical Skills
 ### Programming Languages and Query Languages
