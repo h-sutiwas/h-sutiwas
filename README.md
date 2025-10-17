@@ -1,10 +1,10 @@
-# Hi there! I'm Sutiwas 👋
+# Hi there! I'm Sutiwas Jitsopak
 
-## 🚀 About Me
+## About Me
 
 I was a **Civil Engineer** who transferred into the field of **Computer Science and Engineering (Specifically, Data Science and Analytics, Data Engineering, Artificial Intelligence and Machine Learning Operations)**, bringing a unique perspective of **large-scale systems thinking** and **analytical problem-solving** to the world of data infrastructure. Strong foundation in machine learning and statistical analysis combined with background in transportation engineering.
 
-## 🛠️ Technical Skills
+## Technical Skills
 ### Programming Languages and Query Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -38,7 +38,7 @@ I was a **Civil Engineer** who transferred into the field of **Computer Science 
 - Classification
 - Clustering (K-means, Affinity Propagation, Hierarchical Clustering)
 
-## 🏆 Featured Projects
+## Featured Projects
 
 
 ## Other Projects
